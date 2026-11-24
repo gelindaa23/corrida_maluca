@@ -44,7 +44,7 @@ body{
 }
 
 button{
-    background: #00e5ff;
+    background: #ffa600f8;
     border: none;
     border-radius: 8px;
     padding: 15px;
@@ -53,6 +53,14 @@ button{
 }
 
 button:hover{
-    background: #00e5ff;
+    background: #ffa600;
     transform: scale(1.05);
+}
+
+.turbo1{
+    background: rgb(245, 191, 75);
+}
+
+.turbo2{
+    background: rgb(245, 191, 75);
 }
